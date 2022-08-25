@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertmabo&label=Profile%20views&color=0e75b6&style=flat" alt="albertmabo" /> </p>
 
-- 🔭 I’m currently working on **Texas Imaginology**
+
 
 - 🌱 I’m currently learning **Django,React**
 
